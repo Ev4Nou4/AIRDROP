@@ -1,5 +1,5 @@
 # How to Create an Airdrop on Flare Network
-
+CHANGE MADE BY EV4NOU4 ABOUT NOT MINTING SO I HAVE CHANGED awardItem for safeTransfer in scripts/mint.js and NFT.sol (2x) 
 ## Set Network Variables
 
 Enter RPC endpoint and Private Key in `hardhat.config.js` **!Make sure you keep your Private Key secret!**
